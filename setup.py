@@ -7,4 +7,5 @@ setup(
   description = "The Python feed generator",
   author = "Alexander Brown",
   author_email = "alex@alexanderdbrown.com",
+  test_suite='tests'
 )
